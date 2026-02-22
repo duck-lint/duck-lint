@@ -1,16 +1,23 @@
-## Hi there 👋
+## Implementation support + automation (Workday / SAP C4C)
 
-<!--
-**duck-lint/duck-lint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of systems rollouts, end-user enablement, and practical tooling:
+issue triage, training + SOPs, and building small automations that make workflows repeatable and easier to hand off.
 
-Here are some ideas to get you started:
+### Featured projects
+- **PDF prep for OCR (CLI-first):** [PDF-toolkit](https://github.com/duck-lint/PDF-toolkit)  
+  Rotate, split spreads, render pages to images, and standardize inputs for downstream OCR.
+- **Thin UI wrapper (contract stays the CLI):** [pdf-toolkit-obsidian-plugin](https://github.com/duck-lint/pdf-toolkit-obsidian-plugin)  
+  Small Obsidian UX layer over the CLI to reduce friction for non-technical users.
+- **OCR → Markdown pipeline:** [ocr-obsidian](https://github.com/duck-lint/ocr-obsidian)  
+  Repeatable OCR runs with debug artifacts and “cleaned markdown” outputs for knowledge workflows.
+- **Reproducible Python bootstrap:** [Python_init_and_bootstrap_template](https://github.com/duck-lint/Python_init_and_bootstrap_template)  
+  Venv setup + dependency install + run logging/manifests to make scripts predictable to run and hand off.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I optimize for
+- Clear docs that survive handoffs (assumptions, constraints, “what to do when it breaks”)
+- Fast triage + root-cause style debugging
+- Reproducible runs (logs, manifests, explicit inputs/outputs)
+- Structured data when it helps (SQLite/YAML), not for its own sake
+
+### Contact
+LinkedIn: linkedin.com/in/madison-aubry/
