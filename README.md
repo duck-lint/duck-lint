@@ -1,6 +1,6 @@
 ## Implementation support + automation (Workday / SAP C4C)
 
-I work at the intersection of systems rollouts, end-user enablement, and practical tooling:
+I like helping people through change: systems rollouts, end-user enablement, and practical tooling. I have experience doing:
 issue triage, training + SOPs, and building small automations that make workflows repeatable and easier to hand off.
 
 ### Featured projects
