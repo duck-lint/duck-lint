@@ -1,7 +1,7 @@
 ## Implementation support + automation (Workday / SAP C4C)
 
 I like helping people through change: systems rollouts, end-user enablement, and practical tooling. I have experience doing:
-issue triage, training + SOPs, and building small automations that make workflows repeatable and easier to hand off.
+go-live testing, issue triage, training + SOPs, and building small automations that make workflows repeatable and easier to hand off.
 
 ### Featured projects
 - **PDF prep for OCR (CLI-first):** [PDF-toolkit](https://github.com/duck-lint/PDF-toolkit)  
