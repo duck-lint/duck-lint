@@ -15,6 +15,8 @@ Some projects ship end-user binaries via GitHub Releases.
   Venv setup + dependency install + run logging/manifests to make scripts predictable to run and hand off.
 - **Naming Convention App:** [doc_prefix](https://github.com/duck-lint/QoL-Automation/releases/tag/v0.1.0)
   Small, lightweight Windows application that bulk renames files in a directory to a standard naming convention (YYMM - LastName, FirstName - <Original_Doc_Name>).
+- **Night Light & Medication Tracker Android App:** [NightScreen-PillTracker](https://github.com/duck-lint/NightScreen-PillTracker)
+  Red overlay for light sensitivity at night and medicaiton dosage tracker.
 
 ### What I optimize for
 - Clear docs that survive handoffs (assumptions, constraints, “what to do when it breaks”)
