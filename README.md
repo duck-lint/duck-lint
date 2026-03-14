@@ -18,7 +18,7 @@ Some projects ship end-user binaries via GitHub Releases.
 - **Night Light & Medication Tracker Android App:** [NightScreen-PillTracker](https://github.com/duck-lint/NightScreen-PillTracker)
   Red overlay for light sensitivity at night and medicaiton dosage tracker.
 - **Prompt Palette:** [Prompt Palette](https://github.com/duck-lint/prompt-palette)
-  A small AutoHotkey tool that provides a command palette for structured JSON prompt templates.
+  A small custom AutoHotkey tool that provides a command palette for structured JSON prompt templates.
 
 ### What I optimize for
 - Clear docs that survive handoffs (assumptions, constraints, “what to do when it breaks”)
