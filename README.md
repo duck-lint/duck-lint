@@ -17,7 +17,7 @@ Some projects ship end-user binaries via GitHub Releases.
   Small, lightweight Windows application that bulk renames files in a directory to a standard naming convention (YYMM - LastName, FirstName - <Original_Doc_Name>).
 - **Night Light & Medication Tracker Android App:** [NightScreen-PillTracker](https://github.com/duck-lint/NightScreen-PillTracker)
   Red overlay for light sensitivity at night and medicaiton dosage tracker.
-- **Prompt Palette:** [Prompt Palette](https://github.com/duck-lint/prompt-palette)
+- **Prompt Palette:** [AutoHotKey](https://github.com/duck-lint/prompt-palette) / [MSI/EXE Install (built with Tauri)](https://github.com/duck-lint/prompt_palette_Tauri)
   A small custom AutoHotkey tool that provides a command palette for structured JSON prompt templates.
 
 ### What I optimize for
