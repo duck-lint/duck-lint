@@ -27,4 +27,4 @@ Some projects ship end-user binaries via GitHub Releases.
 - Structured data when it helps (SQLite/YAML), not for its own sake
 
 ### Contact
-LinkedIn: linkedin.com/in/madison-aubry/
+email: duckklintt@gmail.com
