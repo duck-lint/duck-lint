@@ -5,26 +5,21 @@ go-live testing, issue triage, training + SOPs, and building small automations t
 Some projects ship end-user binaries via GitHub Releases.
 
 ### Featured projects
+- **Career Ledger:** [career_ledger](https://github.com/duck-lint/career_ledger)
+  A local-first desktop application for managing career history, auto-tagging skills via inference markers, and generating targeted resumes based off of job postings and your actual work history. No cloud services, no accounts → all data lives in a local SQLite database on your machine.
+- **Naming Convention App:** [doc_prefix](https://github.com/duck-lint/QoL-Automation/releases/tag/v0.1.0)
+  Small, lightweight Windows application that bulk renames files in a directory to a standard naming convention (YYMM - LastName, FirstName - <Original_Doc_Name>).
 - **PDF prep for OCR (CLI-first):** [PDF-toolkit](https://github.com/duck-lint/PDF-toolkit)  
   Rotate, split spreads, render pages to images, and standardize inputs for downstream OCR.
-- **Thin UI wrapper (contract stays the CLI):** [pdf-toolkit-obsidian-plugin](https://github.com/duck-lint/pdf-toolkit-obsidian-plugin)  
-  Small Obsidian UX layer over the CLI to reduce friction for non-technical users.
 - **OCR → Markdown pipeline:** [ocr-obsidian](https://github.com/duck-lint/ocr-obsidian)  
   Repeatable OCR runs with debug artifacts and “cleaned markdown” outputs for knowledge workflows.
 - **Reproducible Python bootstrap:** [Python_init_and_bootstrap_template](https://github.com/duck-lint/Python_init_and_bootstrap_template)  
   Venv setup + dependency install + run logging/manifests to make scripts predictable to run and hand off.
-- **Naming Convention App:** [doc_prefix](https://github.com/duck-lint/QoL-Automation/releases/tag/v0.1.0)
-  Small, lightweight Windows application that bulk renames files in a directory to a standard naming convention (YYMM - LastName, FirstName - <Original_Doc_Name>).
-- **Night Light & Medication Tracker Android App:** [NightScreen-PillTracker](https://github.com/duck-lint/NightScreen-PillTracker)
-  Red overlay for light sensitivity at night and medicaiton dosage tracker.
-- **Prompt Palette:** [AutoHotKey](https://github.com/duck-lint/prompt-palette) / [MSI/EXE Install (built with Tauri)](https://github.com/duck-lint/prompt_palette_Tauri)
-  A lightweight custom tool that provides a command palette for structured JSON prompt templates.
 
 ### What I optimize for
-- Clear docs that survive handoffs (assumptions, constraints, “what to do when it breaks”)
-- Fast triage + root-cause style debugging
-- Reproducible runs (logs, manifests, explicit inputs/outputs)
-- Structured data when it helps (SQLite/YAML), not for its own sake
+- Robust, low bloat codebases
+- Clear, abundant documentation
+- Provenance tracing.
 
 ### Contact
 email: duckklintt@gmail.com
