@@ -1,6 +1,5 @@
 ## I like empowering people, especially through change.
-### Professional experience facilitating system rollouts, user-acceptance testing, and end-user training.
-### Gravitate towards systems, knowledge bases, and requirements analysis.
+### Professional experience facilitating system rollouts, user-acceptance testing, and end-user training. I gravitate towards systems, knowledge bases, and requirements analysis.
 
 ### Featured projects
 - [**Coding Agent Harness:**](https://github.com/duck-lint/coding-agent-harness)
