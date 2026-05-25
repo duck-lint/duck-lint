@@ -5,6 +5,8 @@ go-live testing, issue triage, training + SOPs, and building small automations t
 Some projects ship end-user binaries via GitHub Releases.
 
 ### Featured projects
+- **Coding Agent Harness:** [Agent Harness](https://github.com/duck-lint/coding-agent-harness)
+  Portable repository for a repo-local AI coding harness that prevents common failure modes with iterative AI-assisted coding. Especially helpful for users with no formal understanding of coding language syntax.
 - **Career Ledger:** [career_ledger](https://github.com/duck-lint/career_ledger)
   A local-first desktop application for managing career history, auto-tagging skills via inference markers, and generating targeted resumes based off of job postings and your actual work history. No cloud services, no accounts → all data lives in a local SQLite database on your machine.
 - **Naming Convention App:** [doc_prefix](https://github.com/duck-lint/QoL-Automation/releases/tag/v0.1.0)
@@ -20,6 +22,9 @@ Some projects ship end-user binaries via GitHub Releases.
 - Robust, low bloat codebases
 - Clear, abundant documentation
 - Provenance tracing.
+
+### Tutorials/Educational Content/Project Updates
+**[duck-lint YouTube Channel](https://www.youtube.com/@duck-lint):** You can find content on the things I learn about and create here.
 
 ### Contact
 email: duckklintt@gmail.com
