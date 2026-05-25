@@ -1,8 +1,6 @@
-## Implementation support + workflow tooling (professional Workday & SAP C4C experience)
-
-I like helping people through change: systems rollouts, end-user enablement, and practical tooling. I have experience doing:
-go-live testing, issue triage, training + SOPs, and building small automations that make workflows repeatable and easier to hand off. 
-Some projects ship end-user binaries via GitHub Releases.
+## I like empowering people, especially through change.
+### Professional experience facilitating system rollouts, user-acceptance testing, and end-user training.
+### Gravitate towards systems, knowledge bases, and requirements analysis.
 
 ### Featured projects
 - [**Coding Agent Harness:**](https://github.com/duck-lint/coding-agent-harness)
