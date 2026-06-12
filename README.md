@@ -2,7 +2,7 @@
 ### Professional experience facilitating system rollouts, user-acceptance testing, and end-user training. I gravitate towards systems, knowledge bases, and requirements analysis.
 
 ### Featured projects
-- [**Coding Agent Harness:**](https://github.com/duck-lint/coding-agent-harness)
+- [**Coding Agent Harness:**](https://github.com/duck-lint/coding-agent-harness) | [**CLI Harness:**](https://github.com/duck-lint/Semantic-Geometry-CLI-Harness)
   Portable repository for a repo-local AI coding harness that prevents common failure modes with iterative AI-assisted coding. Especially helpful for users with no formal understanding of coding language syntax.
 - [**Career Ledger:**](https://github.com/duck-lint/career_ledger)
   A local-first desktop application for managing career history, auto-tagging skills via inference markers, and generating targeted resumes based off of job postings and your actual work history. No cloud services, no accounts → all data lives in a local SQLite database on your machine.
