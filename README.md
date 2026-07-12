@@ -2,6 +2,8 @@
 ### Professional experience facilitating system rollouts, user-acceptance testing, and end-user training. I gravitate towards systems, knowledge bases, and requirements analysis.
 
 ### Featured projects
+- [**Semantic Traversal:**](https://github.com/duck-lint/semantic-traversal) (Conversational Agent)
+  A local semantic context compiler for conversations over an Obsidian-style Markdown vault.
 - [**Coding Agent Harness:**](https://github.com/duck-lint/coding-agent-harness) | [**CLI Harness:**](https://github.com/duck-lint/Semantic-Geometry-CLI-Harness)
   Portable repository for a repo-local AI coding harness that prevents common failure modes with iterative AI-assisted coding. Especially helpful for users with no formal understanding of coding language syntax.
 - [**Career Ledger:**](https://github.com/duck-lint/career_ledger)
