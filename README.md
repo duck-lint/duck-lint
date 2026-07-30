@@ -3,7 +3,7 @@
 
 ### Featured projects
 - [**Semantic Traversal (Conversational Agent):**](https://github.com/duck-lint/semantic-traversal) 
-  A local semantic context compiler for conversations over an Obsidian-style Markdown vault.
+  Local-first semantic runtime for auditable reasoning over structured Markdown corpora. Usable developer tool and active research project.
 - [**Coding Agent Harness:**](https://github.com/duck-lint/coding-agent-harness) | [**CLI Harness:**](https://github.com/duck-lint/Semantic-Geometry-CLI-Harness)
   Portable repository for a repo-local AI coding harness that prevents common failure modes with iterative AI-assisted coding. Especially helpful for users with no formal understanding of coding language syntax.
 - [**Career Ledger:**](https://github.com/duck-lint/career_ledger)
