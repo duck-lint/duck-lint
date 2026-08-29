@@ -3,11 +3,12 @@
 
 ### Featured projects
 - [**Semantic Traversal (Conversational Agent):**](https://github.com/duck-lint/semantic-traversal) 
-  Local-first semantic runtime for auditable reasoning over structured Markdown corpora. Usable developer tool and active research project.
-- [**Coding Agent Harness:**](https://github.com/duck-lint/coding-agent-harness) | [**CLI Harness:**](https://github.com/duck-lint/Semantic-Geometry-CLI-Harness)
-  Portable repository for a repo-local AI coding harness that prevents common failure modes with iterative AI-assisted coding. Especially helpful for users with no formal understanding of coding language syntax.
+  Local-first semantic runtime for auditable reasoning over structured Markdown corpora. Active research project.
+  Product version → [**Synthesis Tray**](https://github.com/duck-lint/Synthesis-Tray).
+- [**OpenAI Symphony Orchestration (custom control plane policy):**](https://github.com/duck-lint/symphony-pilot)
+  Takes bounded project seams into isolated, autonomous implementation runs.
 - [**Career Ledger:**](https://github.com/duck-lint/career_ledger)
-  A local-first desktop application for managing career history, auto-tagging skills via inference markers, and generating targeted resumes based off of job postings and your actual work history. No cloud services, no accounts → all data lives in a local SQLite database on your machine.
+  A local-first desktop application for managing career history, auto-tagging skills via inference markers, and generating targeted resumes based off of job postings and your actual work history. No cloud services, no accounts → all data lives in a local SQLite database on your machine. **CURRENTLY UNDER ACTIVE REFACTOR**
 - [**Naming Convention App:**](https://github.com/duck-lint/QoL-Automation/releases/tag/v0.1.0)
   Small, lightweight Windows application that bulk renames files in a directory to a standard naming convention (YYMM - LastName, FirstName - <Original_Doc_Name>).
 - [**PDF prep for OCR (CLI-first):**](https://github.com/duck-lint/PDF-toolkit)  
