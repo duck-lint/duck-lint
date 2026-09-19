@@ -2,7 +2,7 @@
 ### Professional experience facilitating system rollouts, user-acceptance testing, and end-user training. I gravitate towards systems, knowledge bases, and requirements analysis.
 
 ### Featured projects
-- [**Semantic Traversal (Conversational Agent):**](https://github.com/duck-lint/semantic-traversal) 
+- [**Semantic Traversal (Research Project | Conversational Agent):**](https://github.com/duck-lint/semantic-traversal) 
   Local-first semantic runtime for auditable reasoning over structured Markdown corpora. Active research project.
   Product version → [**Synthesis Tray**](https://github.com/duck-lint/Synthesis-Tray).
 - [**OpenAI Symphony Orchestration (multi-agent specialist dispatch):**](https://github.com/duck-lint/symphony-multi-agent-dispatch)
